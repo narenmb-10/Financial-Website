@@ -1,4 +1,4 @@
-# Financial Web Application for Kavad Finance Company
+# Financial Web Application for a Finance Company
 
 This repository contains the code for a financial web application developed for a Finance Company. The application is built using HTML, CSS, and PHP for the database backend. It provides a seamless user experience for managing financial data and services.
 
